@@ -1,0 +1,2 @@
+As per the problem statment I have collected data from MATLAB mobile sensor and uploaded it to MATLAB cloud and from there I coverted data to .txt file and used that file to calculate the steps.
+In this task I have created a filter as mentioned in problem statment.
