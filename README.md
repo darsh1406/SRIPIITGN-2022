@@ -1,1 +1,0 @@
-# SRIPIITGN-2022
