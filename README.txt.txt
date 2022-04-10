@@ -1,0 +1,2 @@
+Here, I have developed an algorithm which works on the concept of Photoplethysmography (PPG) which helps to measure blood volume changes in certain parts of body.
+As per givem problem statment I have taken readings of people from defferent age group and different gender and compared the measured value with the values I got from oximeter.
